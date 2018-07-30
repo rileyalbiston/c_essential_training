@@ -18,7 +18,7 @@ int main(void) {
 
 	//Variable declaration and initialization
 	double originalPrice =	0.0;
-	double tax =				0.0;
+	double tax =			0.0;
 	double discount =		0.0;
 	double specialPrice =	0.0;
 

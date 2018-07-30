@@ -19,8 +19,8 @@ void getInputData1(void);
 void getInputData2(void);
 
 int main(void) {
-	getInputData1();
-	//getInputData2();
+	//getInputData1();
+	getInputData2();
 	return EXIT_SUCCESS;
 }
 
