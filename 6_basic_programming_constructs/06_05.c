@@ -19,8 +19,8 @@ int main(void) {
 	int c = 12;
 
 	float r =  1.52;
-	float s =  2.08;
-	float t = -5.32;
+//	float s =  2.08;
+//	float t = -5.32;
 
 	int integerResult;
 	float floatResult;

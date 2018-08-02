@@ -30,8 +30,12 @@ int main(void) {
 	printf("Enter c:");
 	scanf("%f",&c);
 
-	float discriminant = sqrt(b*b - 4*a*c);
+	printf("%f\n", a);
+	printf("%f\n", b);
+	printf("%f\n", c);
 
+	float discriminant = sqrt(b*b - 4*a*c); //Note that the value must be positive or an error will occur
+	
 	float root1 = (-b + discriminant)/(4*a);
 	float root2 = (-b - discriminant)/(4*a);
 
